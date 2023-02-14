@@ -21,6 +21,8 @@
     "typescript": "^4.9.4"
   },
   "dependencies": {
+    "@fastify/cors": "^8.2.0",
+    "@fastify/jwt": "^6.5.0",
     "@prisma/client": "^4.8.0",
     "short-unique-id": "^4.4.4",
     "zod": "^3.20.2"
